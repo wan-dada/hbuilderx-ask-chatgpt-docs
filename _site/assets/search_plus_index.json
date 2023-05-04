@@ -1,6 +1,21 @@
-{"/hbuilderx-ask-chatgpt-docs/token": {
+{"/hbuilderx-ask-chatgpt-docs/chat-coding": {
+    "title": "插件功能 - 编辑器coding",
+    "keywords": "",
+    "url": "/hbuilderx-ask-chatgpt-docs/chat-coding",
+    "body": "右侧编辑器，比如css文件，选中需求，点击【Coding ChatGPT】，即可获取对应代码。"
+  },"/hbuilderx-ask-chatgpt-docs/chat-main": {
+    "title": "插件功能 - 左侧对话视图",
+    "keywords": "",
+    "url": "/hbuilderx-ask-chatgpt-docs/chat-main",
+    "body": "顶部菜单【工具】【Ask chatGPT】，即可打开chatGPT聊天视图。"
+  },"/hbuilderx-ask-chatgpt-docs/skill": {
+    "title": "chatGPT提问技巧",
+    "keywords": "",
+    "url": "/hbuilderx-ask-chatgpt-docs/skill",
+    "body": "想要让chatGPT产出有效的回答，需要遵循以下五个原则： 提问清晰：请尽可能清晰地描述您的问题 简明扼要：请尽量使用简单的语言和简洁的句子来表达您的问题 确认问题：请确认您的问题是清晰、明确和完整 单一提问：请一个一个地问，而不是把所有问题放在一个问题中 不要提供敏感信息：请不要在您的问题中提供任何个人敏感信息"
+  },"/hbuilderx-ask-chatgpt-docs/token": {
     "title": "token说明",
     "keywords": "",
     "url": "/hbuilderx-ask-chatgpt-docs/token",
-    "body": "此插件封装了openai chatgpt接口，使其可以在HBuilderX内使用。"
+    "body": "OpenAI token 的计算包含两部分。 输入给 ChatGPT 模型的token数和 ChatGPT 模型生成文本的 token 数。 例如，你提问耗费了 200 token，GPT 根据你的输入，生成文本（也就是回答）了 200 token，那么一共消费的 token 数就是 400。 因此，如何提问，非常重要！ 如何计算文本的token数 如何计算文本的token数？https://platform.openai.com/tokenizer"
   }}
