@@ -1,0 +1,11 @@
+I"�<p>此插件封装了openai chatgpt接口，使其可以在HBuilderX内使用。</p>
+
+<h3 id="左侧视图chatgpt对话视图">左侧视图：chatGPT对话视图</h3>
+
+<p>顶部菜单【工具】【Ask chatGPT】，即可打开chatGPT聊天视图。</p>
+
+<h3 id="右侧编辑器coding-chatgpt">右侧编辑器：Coding ChatGPT</h3>
+
+<p>右侧编辑器，比如css文件，选中需求，点击【Coding ChatGPT】，即可获取对应代码。</p>
+
+:ET
