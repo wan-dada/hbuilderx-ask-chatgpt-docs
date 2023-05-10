@@ -21,6 +21,10 @@ permalink: /
 
 **请不要再问为什么不能无限使用。**
 
+目前，注册一个新的chatGPT账号，官方会赠送5美元的免费额度，5美元大概相当于1875000个单词。
+
+如果需要chatGPT账号，请联系我, <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=vSm_afxx96G8SDjfes9OVRNSYF9Q_uW4&jump_from=webapi&authKey=tDaqRE/rQWjg+aae/HTP1Q9KmoXyCpl3wnDok+EX3MO6zWvVrNN/lP46JTuST4K6">QQ群：637837866</a>
+
 ![](images/chat-api-usage.png)
 
 ## ChatGPT官网账号注册是否收费？
